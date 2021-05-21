@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+
+    <TextView
+        android:id="@+id/C206"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C206 Software Development Process" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+
+    <TextView
+        android:id="@+id/C235"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C235 IT Security and Management" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+
+    <TextView
+        android:id="@+id/C203"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C203 Web AppIn Development in php" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+
+    <TextView
+        android:id="@+id/C346"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C346 Mobile App Development" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+
+    <TextView
+        android:id="@+id/C218"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C218 UI/UX for Apps" />
+</LinearLayout>
